@@ -6,7 +6,7 @@ Now I am focusing on applying these skills to build software solutions through w
 
 I am confident working with Ruby, Rails, SQL, HTML, and CSS. I’ve also worked with JavaScript and dabbled with Python. Though I have primarily focused on Backend Web Development, I have a keen interest in Frontend development and thoroughly enjoy the art and polish of the craft.
 
-Find my resume [here](https://github.com/Callbritton/ChrisAllbritton/blob/main/ChrisAllbrittonResume.pdf).
+Find my resume [here](03-15-21-Allbritton-Resume.pdf).
 
 #### What I am working on
 
