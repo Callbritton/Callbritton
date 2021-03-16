@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I am a driven and capable Software Developer who thrives working in teams and in leadership roles. In my prior roles as Construction Project Manager and Safety Manager I have honed my skills in problem-solving, teamwork, and servant-leadership.
+I am a driven and capable Software Developer who thrives when working in teams and in leadership roles. In my prior roles as Construction Project Manager and Safety Manager I have honed my skills in problem-solving, teamwork, and servant-leadership.
 
 Now I am focusing on applying these skills to build software solutions through well-tested, maintainable, and intuitive code. I have long dreamt of a career in software, and I am incredibly excited and committed to be learning and growing each day.
 
@@ -10,7 +10,7 @@ Find my resume [here](https://github.com/Callbritton/ChrisAllbritton/blob/main/C
 
 #### What I am working on
 
-- Learning Backend Web development
+- Expanding my skill set in Backend Web development
 - Learning fundamentals of Frontend Web Development
 - Currently working on creating and consuming restful APIs. See one of my latest projects, Viewing Party, [here.](https://github.com/Callbritton/viewing_party)
 
