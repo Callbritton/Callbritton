@@ -11,7 +11,7 @@ Find my resume [here](03-15-21-Allbritton-Resume.pdf).
 #### What I am working on
 
 - Expanding my skill set in Backend Web development
-- Learning fundamentals of Frontend Web Development
+- Increasing my base of knowledge in Frontend Web Development
 - Currently working on creating and consuming restful APIs. See one of my latest projects, Viewing Party, [here.](https://github.com/Callbritton/viewing_party)
 
 #### Find me elsewhere
