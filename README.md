@@ -14,7 +14,7 @@ Find my resume [here](03-15-21-Allbritton-Resume.pdf).
 - Increasing my base of knowledge in Frontend Web Development
 - Currently working on creating and consuming restful APIs. See one of my latest projects, Viewing Party, [here.](https://github.com/Callbritton/viewing_party)
 
-#### Find me elsewhere
+#### Find me on LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/christopher-allbritton/) 
 
