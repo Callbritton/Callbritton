@@ -2,7 +2,7 @@
 
 I am a driven and capable Software Developer who thrives when working in teams and in leadership roles. In my prior roles as Construction Project Manager and Safety Manager I have honed my skills in problem-solving, teamwork, and servant-leadership.
 
-Now I am focusing on applying these skills to build software solutions through well-tested, maintainable, and intuitive code. I have long dreamt of a career in software, and I am incredibly excited and committed to be learning and growing each day.
+Now I am focusing on applying these skills to build software solutions through well-tested, maintainable, and intuitive code.
 
 I am confident working with Ruby, Rails, SQL, HTML, and CSS. I’ve also worked with JavaScript and dabbled with Python. Though I have primarily focused on Backend Web Development, I have a keen interest in Frontend development and thoroughly enjoy the art and polish of the craft.
 
@@ -12,7 +12,6 @@ Find my resume [here](03-15-21-Allbritton-Resume.pdf).
 
 - Expanding my skill set in Backend Web development
 - Increasing my base of knowledge in Frontend Web Development
-- Currently working on creating and consuming restful APIs. See one of my latest projects, Viewing Party, [here.](https://github.com/Callbritton/viewing_party)
 
 #### Find me on LinkedIn:
 
