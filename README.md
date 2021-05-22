@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I am a driven and capable Software Developer who thrives when working in teams and in leadership roles. In my prior roles as Construction Project Manager and Safety Manager I have honed my skills in problem-solving, teamwork, and servant-leadership.
+I am a driven and capable Software Developer who thrives when working in teams and in leadership positions. In my prior roles as Construction Project Manager and Safety Manager I have honed my skills in problem-solving, teamwork, and servant-leadership.
 
 Now I am focusing on applying these skills to build software solutions through well-tested, maintainable, and intuitive code.
 
