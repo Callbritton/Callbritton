@@ -8,11 +8,6 @@ I am confident working with Ruby, Rails, SQL, HTML, and CSS. I’ve also worked 
 
 Find my resume [here](03-15-21-Allbritton-Resume.pdf).
 
-#### What I am working on
-
-- Expanding my skill set in Backend Web development
-- Increasing my base of knowledge in Frontend Web Development
-
 #### Find me on LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/christopher-allbritton/) 
